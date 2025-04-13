@@ -1,5 +1,4 @@
 # requirements.py
-requirements
 import streamlit as st
 import pandas as pd
 import stripe
